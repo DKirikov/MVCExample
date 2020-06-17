@@ -1,3 +1,3 @@
-Visual Studio 2013 + SQL Server 2014?
+Visual Studio 2013 + SQL Server 2012 Express (SqlLocaLDB)
 
-This is simple example of how to work with MVC.
+This is an simple example of how to work with MVC.
